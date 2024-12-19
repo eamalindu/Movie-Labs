@@ -1,5 +1,1 @@
-*{padding:0;margin:0}body{background-image:url("background.jpg");background-size:cover;background-repeat:no-repeat}table{background:0 0}.table>:not(caption)>*>*{background-color:rgba(0,0,0,.5);color:#fff}h1{text-shadow:2px 2px #000}
-                                                                                                                                                                                                            @media (max-width: 768px) {.w-50{width:90%!important;}#poster{
-    width: 150px;height: 200px;
-                                                                                                                                                                                                                                                                  }}
-
+*{padding:0;margin:0}body{background-image:url("background.jpg");background-size:cover;background-repeat:no-repeat}table{background:0 0}.table>:not(caption)>*>*{background-color:rgba(0,0,0,.5);color:#fff}h1{text-shadow:2px 2px #000}@media (max-width:768px){.w-50{width:90%!important}#poster{width:150px;height:200px}}
